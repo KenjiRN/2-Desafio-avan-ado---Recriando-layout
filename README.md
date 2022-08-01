@@ -1,2 +1,2 @@
-# 2-Desafio-avancado---Recriando-layout
+Desafio-avancado---Recriando-layout
   Projeto desenvolvido durante o Explorer
